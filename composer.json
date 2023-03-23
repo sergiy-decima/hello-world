@@ -1,0 +1,8 @@
+{
+    "name": "sergiy-decima/hello-world",
+    "type": "lib",
+    "version": "1.0.0",
+    "require": {
+        "php": "^8.1"
+    }
+}
